@@ -1,6 +1,5 @@
-Go to:
-emsp vivalid://experiments
-emsp Check "Allow CSS modifications"
+Go to vivalid://experiments
+Check "Allow CSS modifications"
 
 Make custom CSS directory
   ie: /home/user/.config/vivaldi/custom
