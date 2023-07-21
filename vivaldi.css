@@ -1,5 +1,5 @@
-#browser {
-    --colorTabBar: var(--colorAccentBg);
+#browser {{
+    --colorTabBar:  {color0} !important;
     --colorFg: {color2} !important;
     --colorFgAlpha: {color2}1A !important;
     --colorFgIntense: {color2} !important;
@@ -68,5 +68,4 @@
     --scrollbarWidth: 16px !important;
     --uiZoomLevel: 1 !important;
     background-image: unset !important;
-}
-
+}}
